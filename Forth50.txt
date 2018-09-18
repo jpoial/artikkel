@@ -1,0 +1,8 @@
+Forth 50, Charles H. Moore 80
+
+9. septembril 2018 täitus 80 aastat programmeerimiskeele Forth looja Charles H. Moore (Chuck Moore) sünnist. Kuna keelel endal on vanust 50 aastat, siis toimus selle aasta EuroForth konverents (järjekorranumbriga 34) tavapärasest pidulikumas õhkkonnas. Ürituse toimumise kohaks oli valitud Edinburghi lähistel asuva Forthi raudteesilla naabruses paiknev Doubletree Hilton Queensferry hotell. Forthi raudteesild (1890) on üks Šotimaa sümboleid ning insenerikunsti saavutusena võrreldav Eiffeli torniga. Lisaks konverentsile eelnevale Forth standardikomitee koosolekule ning tavapärasele konverentsiprogrammile tähistati Forth 50. ja Charles H. Moore 80. juubeleid piduliku banketiga, millel esines sõnavõtuga ka USAst kohalesõitnud Chuck ise.
+
+Forth on ennekõike mõtteviis (aga ka keel, interpretaator ning vajadusel operatsioonisüsteem) riistvaralähedaste (sardsüsteemidele iseloomulike) ülesannete lahendamiseks - kaasaegseteks rakendusvaldkondadeks on kiipkaardid, meditsiinitehnika, kosmosetehnika, robootika jne.
+
+Universaalse programmeerimiskeelena on Forth oma populaarsust mõnevõrra kaotanud (interpreteeritava interaktiivse keelena võiks ta olla samas nišis Pythoniga, riistvara juhtimisel aga Assembleri või C-ga). Churles H. Moore töötas Forthi algse versiooni enda töö lihtsustamiseks välja juba 1968. aastal, aga laiem avalikkus sai neist ideedest aimu 1980. aasta augustis, kui ilmus populaarse arvutiajakirja BYTE erinumber, mis oli pühendatud keelele Forth. 
+
