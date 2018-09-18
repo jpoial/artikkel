@@ -6,3 +6,13 @@ Forth on ennekõike mõtteviis (aga ka keel, interpretaator ning vajadusel opera
 
 Universaalse programmeerimiskeelena on Forth oma populaarsust mõnevõrra kaotanud (interpreteeritava interaktiivse keelena võiks ta olla samas nišis Pythoniga, riistvara juhtimisel aga Assembleri või C-ga). Churles H. Moore töötas Forthi algse versiooni enda töö lihtsustamiseks välja juba 1968. aastal, aga laiem avalikkus sai neist ideedest aimu 1980. aasta augustis, kui ilmus populaarse arvutiajakirja BYTE erinumber, mis oli pühendatud keelele Forth. 
 
+
+Allikad:
+
+https://web.archive.org/web/20160414102635/http://colorforth.com/
+http://www.greenarraychips.com/home/about/bios.html
+https://web.archive.org/web/20080709050817/http://colorforth.com/bio.html
+https://web.archive.org/web/20080515140003/http://colorforth.com/HOPL.html
+http://worrydream.com/refs/Moore%20-%20Forth%20-%20The%20Early%20Years.pdf
+http://www.exemark.com/FORTH/StartingFORTHfromForthWebsitev9_2013_12_24.pdf
+
