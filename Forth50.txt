@@ -12,6 +12,11 @@ Churles H. Moore töötas Forthi algse versiooni enda töö lihtsustamiseks väl
 
 Paradoksaalsel kombel annab Forth võimaluse ühest küljest soovi korral kontrollida riistvara tasemel iga bitti (puudub läbipaistmatute valmiskomponentide nuhtlus) ning teisest küljest ehitada üles arvutuskunsti abstraktsioonide hierarhiat, mille lennukuse ainsaks piirajaks on looja fantaasia.
 
+Olulised Forthi filosoofia aluspõhimõtted:
+1) lihtsus, minimaalsus, läbipaistvus: "Keep it simple" (tarkvaratehnikas tuntud kui KISS - "Keep it simple, stupid");
+2) "Do not speculate" - ära eelda midagi tulevaste võimalike täienduste/laienduste kohta, tee laiendused siis, kui neid on tarvis teha;
+3) "Do it yourself" - viia asjad lõpuni ise, aitab järgida teist põhimõtet.
+
 Forth töötab võimendina - hea programmeerija saab selle abil oma töö kümneid kordi lihtsamalt ja kiiremini tehtud (võrreldes "tavapäraste" keeltega), halb programmeerija saab Forthis luua täiesti loetamatut, hallatamatut ja kergeltpurunevat koodi.
 
 
