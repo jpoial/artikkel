@@ -24,6 +24,7 @@ Pisut võib Forthi võrrelda alpinisti varustusega. See on minimaalne, efektiivn
 
 Allikad:
 
+http://www.complang.tuwien.ac.at/anton/euroforth/
 https://web.archive.org/web/20160414102635/http://colorforth.com/
 http://www.greenarraychips.com/home/about/bios.html
 https://web.archive.org/web/20080709050817/http://colorforth.com/bio.html
