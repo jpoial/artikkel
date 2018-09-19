@@ -1,6 +1,6 @@
 Forth 50, Charles H. Moore 80
 
-9. septembril 2018 täitus 80 aastat programmeerimiskeele Forth looja Charles H. Moore (Chuck Moore) sünnist. Kuna keelel endal on vanust 50 aastat, siis toimus selle aasta EuroForth konverents (järjekorranumbriga 34) tavapärasest pidulikumas õhkkonnas. Ürituse toimumise kohaks oli valitud Edinburghi lähistel asuva Forthi raudteesilla naabruses paiknev Doubletree Hilton Queensferry hotell. Forthi raudteesild (1890) on üks Šotimaa sümboleid ning insenerikunsti saavutusena võrreldav Eiffeli torniga. 
+9. septembril 2018 täitus 80 aastat programmeerimiskeele Forth looja Charles H. Moore (Chuck Moore) sünnist (mitte segi ajada Moore'i seaduse autori Gordon E. Moore'ga). Kuna keelel endal on vanust 50 aastat, siis toimus selle aasta EuroForth konverents (järjekorranumbriga 34) tavapärasest pidulikumas õhkkonnas. Ürituse toimumise kohaks oli valitud Edinburghi lähistel asuva Forthi raudteesilla naabruses paiknev Doubletree Hilton Queensferry hotell. Forthi raudteesild (1890) on üks Šotimaa sümboleid ning insenerikunsti saavutusena võrreldav Eiffeli torniga.
 
 Lisaks konverentsile eelnevale Forth standardikomitee koosolekule ning tavapärasele ettekannete programmile tähistati Forth 50. ja Charles H. Moore 80. juubeleid piduliku banketiga, millel esines sõnavõtuga ka USAst kohalesõitnud Chuck ise. Ta rõhutas, et ennekõike lõi ta Forthi iseenda jaoks ning iseenda lõbuks, teda ei kammitsenud standardid ega reeglid. Forthi võtmepõhimõteteks on lihtsus, minimaalsus ja läbipaistvus. Näitena meenutas juubilar arvutit, millel puudus igasugune sisend ning millega suhtlemiseks sai ära kasutada vaid printeri töövalmiduse indikaatorit (printer on/ei ole ühendatud). Selle ühebitise sisendi kaudu õnnestus arvuti varustada töötava Forth-süsteemiga. Algusaastate Forth oli kasulik töövahend uute riistvaraplatvormide vallutamiseks just oma minimalistlikkuse, adapteeruvuse ja ülekantavuse tõttu. 
 
@@ -21,6 +21,7 @@ Forth töötab võimendina - hea programmeerija saab selle abil oma töö kümne
 
 Pisut võib Forthi võrrelda alpinisti varustusega. See on minimaalne, efektiivne, spetsialiseeritud ja detailideni viimistletud. Seda kasutatakse tippude vallutamiseks väheste poolt ja see ei ole vajalik, mugav ega jõukohane igapäevaseks kasutamiseks. Kui aga kedagi on mägede haigus tabanud, siis see kestab terve elu.
 
+Artikli autorile oli see kümnes EuroForthil osalemine, samuti omamoodi juubel.
 
 Allikad:
 
@@ -33,5 +34,8 @@ http://worrydream.com/refs/Moore%20-%20Forth%20-%20The%20Early%20Years.pdf
 http://www.exemark.com/FORTH/StartingFORTHfromForthWebsitev9_2013_12_24.pdf
 https://ia802600.us.archive.org/35/items/byte-magazine-1980-08/1980_08_BYTE_05-08_The_Forth_Language.pdf
 https://www.forth.com/resources/forth-programming-language/ - kõikehõlmav ülevaade
+https://spectrum.ieee.org/view-from-the-valley/computing/hardware/david-patterson-says-its-time-for-new-computer-architectures-and-software-languages
 
+
+Külastatud: 1990 1991 1993 1994 2002 2003 2006 2008 2017 2018
 
