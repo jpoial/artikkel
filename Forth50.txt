@@ -1,6 +1,5 @@
 Forth 50, Charles H. Moore 80
 
-
 9. septembril 2018 täitus 80 aastat programmeerimiskeele Forth looja Charles H. Moore (Chuck Moore) sünnist (mitte segi ajada Moore'i seaduse autori Gordon E. Moore'ga). Kuna keelel endal on vanust 50 aastat, siis toimus selle aasta EuroForth konverents (järjekorranumbriga 34) tavapärasest pidulikumas õhkkonnas. Ürituse toimumise kohaks oli valitud Edinburghi lähistel asuva Forthi raudteesilla naabruses paiknev Doubletree Hilton Queensferry hotell. Forthi raudteesild (1890) on üks Šotimaa sümboleid ning insenerikunsti saavutusena võrreldav Eiffeli torniga. 
 <pilt>
 
@@ -8,7 +7,7 @@ Lisaks konverentsile eelnevale Forth standardikomitee koosolekule ning tavapära
 <pilt>
 <pilt2>
 
-Algusaastate Forth oli kasulik töövahend uute riistvaraplatvormide vallutamiseks just oma minimalistlikkuse, adapteeruvuse ja ülekantavuse tõttu. Ettekande lõpetuseks võrdles Chuck enda elutööd samal ajal alustanud Bill Gatesi saavutustega ning tõdes, et rikkuse asemel on ta saanud palju rahuldust tehtust ja rohesti rõõmu.
+Algusaastate Forth oli kasulik töövahend uute riistvaraplatvormide vallutamiseks just oma minimalistlikkuse, adapteeruvuse ja ülekantavuse tõttu. Ettekande lõpetuseks võrdles Chuck enda elutööd samal ajal alustanud Bill Gatesi saavutustega ning tõdes, et rikkuse asemel on ta saanud palju rahuldust tehtust ja rohkesti rõõmu.
 <pilt>
 
 C. Moore on saanud korraliku hariduse - füüsikabakalaureus MITist (1960) ning kaks aastat matemaatikaõpinguid Stanfordis. Tema LISPi õpetajaks oli John McCarthy, lisaks valdas Chuck kümmetkonda assemblerit ning peaaegu kõiki tol ajal levinud programmeerimiskeeli (Fortran, Algol, Cobol , ...). Forth loodi lähtudes suurest teadmiste, aga veelgi enam praktilise programmeerimise kogemuste baasist lähtudes. 
