@@ -20,11 +20,20 @@ Olulised Forthi filosoofia aluspõhimõtted on:
 2) "Do not speculate" - ära eelda midagi tulevaste võimalike täienduste/laienduste kohta, tee laiendused alles siis, kui neid on tarvis teha (ja usu, et nii saab tulemus parem). Seda põhimõtet on abstraktsioonidega harjunud matemaatikul eriti raske järgida ja uskuda - ikka tahaks "ette mõelda" ja üldistada, aga sellega saaks rikutud minimaalsuse nõue.
 3) "Do it yourself" - viia asjad lõpuni ise (aitab järgida teist põhimõtet). Väga sageli tehakse suuri jõupingutusi lootuses, et keegi kunagi saab neid kasutada ja edasi arendada. Tegelikult nii ei juhtu - praktikas alustavad uued tegijad enamasti nullist või selle lähedalt. Forthile on iseloomulik individualistlik lähenemine - ka väga suuri projekte tehakse kas lausa üksi (näit. VLSI CAD süsteem OKAD II) või siis väikeses rühmas. Näiteks Mati Tombaku rühmas oli hiilgeaegadel 6 inimest, aga valmis tehti 2 tööstuslikku translaatorit keeltele Fortran ja Modula-2 ning töötati translaatorite genereerimisega erinevatele arhitektuuridele - Apple II, IBM 360 (EC-1022), PDP-11 (CM-4), Agat, Iskra 226, IBM PC (nii 16 kui ka 32 bitilises variandis).
 
+Klassikalise Forth-süsteemi põhikomponentideks on:
+1) Sõnastik, mis sisaldab süsteemile tuntud operatsioone e. "sõnu" täitmisvalmil kujul, s.t. masinkoodis (kernel words) või nn. punutud koodina (threaded code).
+2) Koodiinterpretaator e. sisemine interpretaator programmi sisekuju täitmiseks.
+3) Andmepinu (data stack) andmevahetuseks programmide vahel.
+4) Juhtimispinu (control stack) programmi suunamiste ja alamprogrammide väljakutsete haldamiseks.
+5) Tekstiinterpretaator e. välimine interpretaator sisendvoo sõnade lugemiseks ja interpreteerimiseks.
+6) Sõnastike süsteem tekstiinterpretaatoris konteksti ümberlülitamiseks (vajalik näiteks kross-kompileerimiseks, kui ühel riistvaraplatvormil luuakse koodi teise platvormi jaoks).
+7) Välismäluga suhtlemise süsteem (näit. failisüsteem).
+
 Forth töötab võimendina - hea programmeerija saab selle abil oma töö kümneid kordi lihtsamalt ja kiiremini tehtud (võrreldes "tavapäraste" keeltega), halb programmeerija saab Forthis luua täiesti loetamatut, hallatamatut ja kergeltpurunevat koodi.
 
 Pisut võib Forthi võrrelda alpinisti varustusega. See on minimaalne, efektiivne, spetsialiseeritud ja detailideni viimistletud. Seda kasutatakse tippude vallutamiseks väheste poolt ja see ei ole vajalik, mugav ega jõukohane igapäevaseks kasutamiseks. Kui aga kedagi on mägede haigus tabanud, siis see kestab terve elu.
 
-Artikli autorile oli see kümnes EuroForthil osalemine, samuti omamoodi juubel. Kohtumine elava geeniusega oli seda väärt. 
+Artikli autorile oli see kümnes EuroForthil osalemine, mis on samuti omamoodi juubel. Kohtumine elava geeniusega oli inspireeriv. 
 
 
 Allikad:
@@ -37,8 +46,7 @@ https://web.archive.org/web/20080515140003/http://colorforth.com/HOPL.html
 http://worrydream.com/refs/Moore%20-%20Forth%20-%20The%20Early%20Years.pdf
 http://www.exemark.com/FORTH/StartingFORTHfromForthWebsitev9_2013_12_24.pdf
 https://ia802600.us.archive.org/35/items/byte-magazine-1980-08/1980_08_BYTE_05-08_The_Forth_Language.pdf
-https://www.forth.com/resources/forth-programming-language/ - kõikehõlmav ülevaade
-https://spectrum.ieee.org/view-from-the-valley/computing/hardware/david-patterson-says-its-time-for-new-computer-architectures-and-software-languages
+https://www.forth.com/resources/forth-programming-language/
 
 * Autor külastas EuroForthi: 1990 1991 1993 1994 2002 2003 2006 2008 2017 2018
 
