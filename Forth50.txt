@@ -1,9 +1,14 @@
 Forth 50, Charles H. Moore 80
 
 
-9. septembril 2018 täitus 80 aastat programmeerimiskeele Forth looja Charles H. Moore (Chuck Moore) sünnist (mitte segi ajada Moore'i seaduse autori Gordon E. Moore'ga). Kuna keelel endal on vanust 50 aastat, siis toimus selle aasta EuroForth konverents (järjekorranumbriga 34) tavapärasest pidulikumas õhkkonnas. Ürituse toimumise kohaks oli valitud Edinburghi lähistel asuva Forthi raudteesilla naabruses paiknev Doubletree Hilton Queensferry hotell. Forthi raudteesild (1890) on üks Šotimaa sümboleid ning insenerikunsti saavutusena võrreldav Eiffeli torniga.
+9. septembril 2018 täitus 80 aastat programmeerimiskeele Forth looja Charles H. Moore (Chuck Moore) sünnist (mitte segi ajada Moore'i seaduse autori Gordon E. Moore'ga). Kuna keelel endal on vanust 50 aastat, siis toimus selle aasta EuroForth konverents (järjekorranumbriga 34) tavapärasest pidulikumas õhkkonnas. Ürituse toimumise kohaks oli valitud Edinburghi lähistel asuva Forthi raudteesilla naabruses paiknev Doubletree Hilton Queensferry hotell. Forthi raudteesild (1890) on üks Šotimaa sümboleid ning insenerikunsti saavutusena võrreldav Eiffeli torniga. 
+<pilt>
 
-Lisaks konverentsile eelnevale Forth standardikomitee koosolekule ning tavapärasele ettekannete programmile tähistati Forth 50. ja Charles H. Moore 80. juubeleid piduliku banketiga, millel esines sõnavõtuga ka USAst kohalesõitnud Chuck ise. Ta rõhutas, et ennekõike lõi ta Forthi iseenda jaoks ning iseenda lõbuks, teda ei kammitsenud standardid ega reeglid. Forthi võtmepõhimõteteks on lihtsus, minimaalsus ja läbipaistvus. Näitena meenutas juubilar arvutit, millel puudus igasugune sisend ning millega suhtlemiseks sai ära kasutada vaid printeri töövalmiduse indikaatorit (printer on/ei ole ühendatud). Selle ühebitise sisendi kaudu õnnestus arvuti varustada töötava Forth-süsteemiga. Algusaastate Forth oli kasulik töövahend uute riistvaraplatvormide vallutamiseks just oma minimalistlikkuse, adapteeruvuse ja ülekantavuse tõttu. Ettekande lõpetuseks võrdles Chuck enda elutööd samal ajal alustanud Bill Gatesi saavutustega ning tõdes, et rikkuse asemel on ta saanud palju rahuldust tehtust ja rohesti rõõmu.
+Lisaks konverentsile eelnevale Forth standardikomitee koosolekule ning tavapärasele ettekannete programmile tähistati Forth 50. ja Charles H. Moore 80. juubeleid piduliku banketiga, millel esines sõnavõtuga ka USAst kohalesõitnud Chuck ise. Ta rõhutas, et ennekõike lõi ta Forthi iseenda jaoks ning iseenda lõbuks, teda ei kammitsenud standardid ega reeglid. Forthi võtmepõhimõteteks on lihtsus, minimaalsus ja läbipaistvus. Näitena meenutas juubilar arvutit, millel puudus igasugune sisend ning millega suhtlemiseks sai ära kasutada vaid printeri töövalmiduse indikaatorit (printer on/ei ole ühendatud). Selle ühebitise sisendi kaudu õnnestus arvuti varustada töötava Forth-süsteemiga. 
+<pilt>
+
+Algusaastate Forth oli kasulik töövahend uute riistvaraplatvormide vallutamiseks just oma minimalistlikkuse, adapteeruvuse ja ülekantavuse tõttu. Ettekande lõpetuseks võrdles Chuck enda elutööd samal ajal alustanud Bill Gatesi saavutustega ning tõdes, et rikkuse asemel on ta saanud palju rahuldust tehtust ja rohesti rõõmu.
+<pilt>
 
 C. Moore on saanud korraliku hariduse - füüsikabakalaureus MITist (1960) ning kaks aastat matemaatikaõpinguid Stanfordis. Tema LISPi õpetajaks oli John McCarthy, lisaks valdas Chuck kümmetkonda assemblerit ning peaaegu kõiki tol ajal levinud programmeerimiskeeli (Fortran, Algol, Cobol , ...). Forth loodi lähtudes suurest teadmiste, aga veelgi enam praktilise programmeerimise kogemuste baasist lähtudes. 
 
@@ -16,7 +21,7 @@ Churles H. Moore töötas Forthi algse versiooni enda töö lihtsustamiseks väl
 Paradoksaalsel kombel annab Forth võimaluse ühest küljest soovi korral kontrollida riistvara tasemel iga bitti (puudub läbipaistmatute valmiskomponentide nuhtlus) ning teisest küljest ehitada üles arvutuskunsti abstraktsioonide hierarhiat, mille lennukuse ainsaks piirajaks on looja fantaasia.
 
 Olulised Forthi filosoofia aluspõhimõtted on:
-1) Lihtsus, minimaalsus, läbipaistvus: "Keep it simple" (tarkvaratehnikas tuntud ka kui KISS printsiip - "Keep It Simple, Stupid", US Navy). Minimaalsuse tagamine on esmane - näiteks andmete edastamiseks ei looda eraldi pakendeid ning edastusmehhanisme, vaid need tekivad ja ka kasutatakse andmepinu (data stack) kaudu. Sellest tulenevalt on keele süntaks üldistatud RPN (Reverse Polish Notation) ehk postfikskuju. 
+1) Lihtsus, minimaalsus, läbipaistvus: "Keep it simple" (tarkvaratehnikas tuntud ka kui KISS printsiip - "Keep It Simple, Stupid", US Navy 1960). Minimaalsuse tagamine on esmane - näiteks andmete edastamiseks ei looda eraldi pakendeid ning edastusmehhanisme, vaid need tekivad ja ka kasutatakse andmepinu (data stack) kaudu. Sellest tulenevalt on keele süntaks üldistatud RPN (Reverse Polish Notation) ehk postfikskuju. 
 2) "Do not speculate" - ära eelda midagi tulevaste võimalike täienduste/laienduste kohta, tee laiendused alles siis, kui neid on tarvis teha (ja usu, et nii saab tulemus parem). Seda põhimõtet on abstraktsioonidega harjunud matemaatikul eriti raske järgida ja uskuda - ikka tahaks "ette mõelda" ja üldistada, aga sellega saaks rikutud minimaalsuse nõue.
 3) "Do it yourself" - viia asjad lõpuni ise (aitab järgida teist põhimõtet). Väga sageli tehakse suuri jõupingutusi lootuses, et keegi kunagi saab neid kasutada ja edasi arendada. Tegelikult nii ei juhtu - praktikas alustavad uued tegijad enamasti nullist või selle lähedalt. Forthile on iseloomulik individualistlik lähenemine - ka väga suuri projekte tehakse kas lausa üksi (näit. VLSI CAD süsteem OKAD II) või siis väikeses rühmas. Näiteks Mati Tombaku rühmas oli hiilgeaegadel 6 inimest, aga valmis tehti 2 tööstuslikku translaatorit keeltele Fortran ja Modula-2 ning töötati translaatorite genereerimisega erinevatele arhitektuuridele - Apple II, IBM 360 (EC-1022), PDP-11 (CM-4), Agat, Iskra 226, IBM PC (nii 16 kui ka 32 bitilises variandis).
 
@@ -33,7 +38,8 @@ Forth töötab võimendina - hea programmeerija saab selle abil oma töö kümne
 
 Pisut võib Forthi võrrelda alpinisti varustusega. See on minimaalne, efektiivne, spetsialiseeritud ja detailideni viimistletud. Seda kasutatakse tippude vallutamiseks väheste poolt ja see ei ole vajalik, mugav ega jõukohane igapäevaseks kasutamiseks. Kui aga kedagi on mägede haigus tabanud, siis see kestab terve elu.
 
-Artikli autorile oli see kümnes EuroForthil osalemine, mis on samuti omamoodi juubel. Kohtumine elava geeniusega oli inspireeriv. 
+Artikli autori panus Forthi arengusse on tüübisüsteemi loomine pinuoperatsioonide formaalseks kirjeldamiseks. Akadeemilise nõuandjana on J.Pöial kaasatud EuroForth konverentside programmkomitee töösse, talle oli see kümnes* EuroForthil osalemine, mis on samuti omamoodi juubel. Kohtumine Chuckiga - elava geeniusega - oli inspireeriv.
+<pilt>
 
 
 Allikad:
