@@ -53,5 +53,5 @@ http://worrydream.com/refs/Moore%20-%20Forth%20-%20The%20Early%20Years.pdf
 http://www.exemark.com/FORTH/StartingFORTHfromForthWebsitev9_2013_12_24.pdf
 https://ia802600.us.archive.org/35/items/byte-magazine-1980-08/1980_08_BYTE_05-08_The_Forth_Language.pdf
 https://www.forth.com/resources/forth-programming-language/
-
+https://wiki.forth-ev.de/doku.php/events:ef2018:start
 
